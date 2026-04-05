@@ -73,3 +73,6 @@ The **Smart Healthcare Disease Prediction System** is a web-based application th
 ---
 
 ## 🏗️ System Architecture
+
+<img width="418" height="255" alt="image" src="https://github.com/user-attachments/assets/3c387300-7f1a-444b-9775-6437059cea1e" />
+
